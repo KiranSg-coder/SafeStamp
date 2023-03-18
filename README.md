@@ -17,18 +17,4 @@ Image Steganography is widely used for hiding a message image into a cover image
 3. Subtract Pj from Qj. Name it Msglen.
 4. After knowing the Msglen we can easily retrieve the secret message from Qj. Thus we perform the encoding and decoding process in our image steganography application.
 
-## FLOW CHART
-![here](https://github.com/lukefire5156/Steganography-App/blob/master/SS/flowchart.png)
-
-
-
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-152706.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-154140.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-153327.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-154059.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-154046.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-153447.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-153424.png" width="250" height="400">
-<img src="https://github.com/lukefire5156/Steganography-App/blob/master/SS/Screenshot_20200604-153409.png" width="250" height="400">
-
 ## THANK YOU!!
